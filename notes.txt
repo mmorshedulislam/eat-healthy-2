@@ -1,0 +1,11 @@
+Header background color: #FFFFFF
+About background color:  #FFF4ED
+My reciepies background color: #FFFFFF
+Footer background color: #0B0D17
+
+h1 font color #575757
+h1 span color #FC8846
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
